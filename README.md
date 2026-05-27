@@ -60,27 +60,16 @@
 ## 🎯 2026 Goals
 
 ```yaml
-DSA         : Solve 300+ problems on LeetCode & GeeksForGeeks
-Projects    : Build and deploy 10+ real-world projects
-Internship  : Land my first software engineering internship
-Learning    : Master Backend Development & System Design
-OpenSource  : Make first open source contribution
+DSA         : Solve 100+ problems on LeetCode & GeeksForGeeks
+Projects    : Build and deploy 5+ projects
+Career      : Land my first internship
+Learning    : Master  development and System Design
+
 ```
 
 ---
 
-## 📂 Projects
 
-<div align="center">
-
-| | |
-|---|---|
-| [![dsa-practice](https://github-readme-stats-psi-ten-33.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=dsa-practice&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/dsa-practice) | [![basic_python_projects](https://github-readme-stats-psi-ten-33.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=basic_python_projects&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/basic_python_projects) |
-| [![OOPS-java-dev](https://github-readme-stats-psi-ten-33.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=OOPS-java-dev&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/OOPS-java-dev) | [![slop-detector](https://github-readme-stats-psi-ten-33.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=slop-detector&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/slop-detector) |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
