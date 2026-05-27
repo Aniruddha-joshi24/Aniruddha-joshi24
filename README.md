@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%27m%20Aniruddha%20Joshi%20—%20Student%20Developer%20from%20India&descAlignY=58&descSize=15&descColor=a78bfa)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Hey%20there%2C%20I%27m%20Aniruddha%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20from%20India&descAlignY=58&descSize=15&descColor=a78bfa)
 
 </div>
 
@@ -54,9 +54,7 @@
 
 <div align="left">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" /><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" /><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" /><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" /><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" />
-
-<img src="https://skillicons.dev/icons?i=cpp,html,css,git,github,linux,mysql&theme=dark&perline=7" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" /><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" /><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70" /><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" /><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70" />
 
 </div>
 
@@ -78,9 +76,25 @@ OpenSource  : Make first open source contribution
 
 <div align="center">
 
-[![dsa-practice](https://github-readme-stats.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=dsa-practice&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/dsa-practice)[![basic_python_projects](https://github-readme-stats.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=basic_python_projects&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/basic_python_projects)
+[![dsa-practice](https://github-readme-stats-psi-ten-33.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=dsa-practice&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/dsa-practice)
+[![basic_python_projects](https://github-readme-stats-psi-ten-33.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=basic_python_projects&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/basic_python_projects)
 
-[![OOPS-java-dev](https://github-readme-stats.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=OOPS-java-dev&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/OOPS-java-dev)[![slop-detector](https://github-readme-stats.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=slop-detector&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/slop-detector)
+[![OOPS-java-dev](https://github-readme-stats-psi-ten-33.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=OOPS-java-dev&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/OOPS-java-dev)
+[![slop-detector](https://github-readme-stats-psi-ten-33.vercel.app/api/pin/?username=Aniruddha-joshi24&repo=slop-detector&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/Aniruddha-joshi24/slop-detector)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Aniruddha's GitHub Stats](https://github-readme-stats-psi-ten-33.vercel.app/api?username=Aniruddha-joshi24&show_icons=true&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true)
+
+![Top Languages](https://github-readme-stats-psi-ten-33.vercel.app/api/top-langs/?username=Aniruddha-joshi24&layout=compact&theme=tokyonight&title_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aniruddha-joshi24&theme=tokyonight&background=0d0d0d&border=2a2a2a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
 
@@ -91,6 +105,3 @@ OpenSource  : Make first open source contribution
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer)
 
 </div>
-
-
-enhance this readme with proper orientation and spacing as it is normally in good github profiles
