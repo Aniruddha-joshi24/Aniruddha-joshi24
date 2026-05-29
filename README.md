@@ -4,13 +4,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%F0%9F%A4%96;Learning+Relentlessly+%F0%9F%9A%80;Engineering+for+the+Future+%F0%9F%94%AD)](https://git.io/typing-svg)
-
-</div>
 
 ### Let's Connect and Collaborate! 🤝
 
