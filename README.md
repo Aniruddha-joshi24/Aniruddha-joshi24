@@ -69,7 +69,7 @@ Learning    : Master  development and System Design
 
 <div align="center">
 
-![Aniruddha's GitHub Stats](https://github-readme-stats-psi-ten-33.vercel.app/api?username=Aniruddha-joshi24&show_icons=true&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true)
+![Aniruddha's GitHub Stats](https://github-readme-stats-psi-ten-33.vercel.app/api?username=Aniruddha-joshi24&show_icons=true&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats-psi-ten-33.vercel.app/api/top-langs/?username=Aniruddha-joshi24&layout=compact&theme=tokyonight&title_color=a78bfa&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)
 
